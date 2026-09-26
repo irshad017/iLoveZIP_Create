@@ -811,7 +811,7 @@ async def healthz():
 async def metadata():
     return {
         "team_name": "Vera Prime",
-        "team_members": ["Magicpin AI Team"],
+        "team_members": ["Irshad Hussain"],
         "model": "deterministic-context-composer",
         "approach": "Zero-hallucination deterministic 4-context composition with clinical-peer voice and verifiability enforcement",
         "contact_email": "vera.prime@magicpin.ai",
